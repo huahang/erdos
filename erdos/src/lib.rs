@@ -129,7 +129,6 @@
 // Required for specialization.
 #![allow(incomplete_features)]
 #![feature(specialization)]
-#![feature(box_into_pin)]
 
 // Re-exports of libraries used in macros.
 #[doc(hidden)]
